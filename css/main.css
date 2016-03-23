@@ -1,0 +1,103 @@
+/* ==========================================================================
+   Global Overrides
+  ========================================================================== */
+* {
+  box-sizing: border-box;
+/*   border: 1px solid red; */
+}
+
+.clearfix:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+a {
+
+}
+header {
+  background-color: #080808;
+}
+
+
+body {
+  color: #D4E1DB;
+}
+
+
+h1 {
+  font-family: "Merriweather";
+  float: left;
+  font-size: 40px;
+}
+
+
+nav {
+  float: right;
+}
+
+
+ul {
+  font-family: "sans-serif";
+  font-style: bold;  
+
+}
+
+nav li {
+  display: inline-block;
+}
+
+/* ==========================================================================
+   Author's custom styles
+  ========================================================================== */
+
+/* 
+    SITE COLORS for your reference:
+    (refer to styleguide.jpg for hex codes or use Sip to pick colors from design)
+
+    White - ;
+    Light Grey -
+    Dark Grey -
+    Grey/Black(text color) -
+    Yellow -
+    Red -
+*/
+
+
+/* Global
+   ================================================================ */
+body {
+  /* Set some defaults! font-family, font-size, color, etc. */
+  font-family: "Merriweather";
+  font-weight: 700;
+  color: #080808;
+}
+
+/* Text Styles (a, a:hover, a:visited, a:active, p, h1, h2, h3, h4, etc.)
+   ================================================================ */
+a {
+  /* Set some default styles for anchors (color, text decoration) */
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+}
+
+/* Layout (columns, floats, etc.)
+   ================================================================ */
+
+
+/* Header
+   ================================================================ */
+
+
+
+/* Footer
+   ================================================================ */
+
+
+
+/* Navigation
+   ================================================================ */
+
+
+
+/* Buttons
+   ================================================================ */
